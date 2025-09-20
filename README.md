@@ -129,11 +129,11 @@ plt.show()
 ``````
 ## Output:
 ## ORIGINAL IMAGE
-<img width="646" height="446" alt="image" src="https://github.com/user-attachments/assets/c5c9ae17-90a9-4b6b-b3f9-7c82201ff186" />
+<img width="655" height="368" alt="image" src="https://github.com/user-attachments/assets/4a18e62c-b9c6-4af5-8b60-87d6d37b5823" />
 
 ### i)Image Translation
 <br>
-<img width="595" height="414" alt="image" src="https://github.com/user-attachments/assets/aabe8399-c95b-4c22-9fba-18dcef7eede9" />
+<img width="610" height="370" alt="image" src="https://github.com/user-attachments/assets/bea6ab79-1e38-4a3e-9b8d-910dc61fcf75" />
 
 <br>
 <br>
@@ -141,7 +141,7 @@ plt.show()
 
 ### ii) Image Scaling
 <br>
-<img width="597" height="185" alt="image" src="https://github.com/user-attachments/assets/e0956ff6-8ca4-47bd-802b-a71b30bc7128" />
+<img width="639" height="196" alt="image" src="https://github.com/user-attachments/assets/2614090c-d16f-4d31-9f2e-a29f0f56131e" />
 
 
 <br>
@@ -151,7 +151,7 @@ plt.show()
 
 ### iii)Image shearing
 <br>
-<img width="571" height="410" alt="image" src="https://github.com/user-attachments/assets/1d75edc1-96d7-4b98-9e31-58cbe02d413f" />
+<img width="616" height="385" alt="image" src="https://github.com/user-attachments/assets/cd883275-4fc7-4664-bec3-8a758721cf15" />
 
 
 
@@ -162,8 +162,7 @@ plt.show()
 
 ### iv)Image Reflection
 <br>
-<img width="623" height="404" alt="image" src="https://github.com/user-attachments/assets/c2f28ebe-0256-414a-bb3d-cddb27819f8f" />
-
+<img width="577" height="377" alt="image" src="https://github.com/user-attachments/assets/b768713d-fc63-4a37-8c40-89b9a6bc63aa" />
 
 <br>
 <br>
@@ -172,7 +171,7 @@ plt.show()
 
 
 ### v)Image Rotation
-<br><img width="566" height="411" alt="image" src="https://github.com/user-attachments/assets/dce2d0d6-98fd-425c-9ea8-8c61256fa47f" />
+<img width="611" height="392" alt="image" src="https://github.com/user-attachments/assets/59bb2cfc-1ec8-4e9f-86bb-ef251c4bf57a" />
 
 <br>
 <br>
@@ -182,7 +181,7 @@ plt.show()
 
 ### vi)Image Cropping
 <br>
-<img width="599" height="295" alt="image" src="https://github.com/user-attachments/assets/674053f0-f766-40a3-a2ce-af09a503315c" />
+<img width="608" height="480" alt="image" src="https://github.com/user-attachments/assets/9fa679b0-bb7a-46ef-a7fa-092a82ae2083" />
 
 
 <br>
